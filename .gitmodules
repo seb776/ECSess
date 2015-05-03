@@ -1,0 +1,3 @@
+[submodule "ECSess_core"]
+	path = ECSess_core
+	url = https://github.com/seb776/ECSess_core

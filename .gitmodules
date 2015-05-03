@@ -1,3 +1,6 @@
 [submodule "ECSess_core"]
 	path = ECSess_core
 	url = https://github.com/seb776/ECSess_core
+[submodule "ECSess_GameEngine"]
+	path = ECSess_GameEngine
+	url = https://github.com/seb776/ECSess_GameEngine
